@@ -18,7 +18,10 @@ Open-source Contributions: Especially in areas related to React, Node.js, and bi
 
 📫 How to Reach Me
 Email: shubhp1801@gmail.com
+
 LinkedIn: Shubh Patel {below is the link directing to my linkedin :) }
+www.linkedin.com/in/shubh-patel-4572872a4
+
 GitHub: @iamshubhp
 
 😄 Pronouns
