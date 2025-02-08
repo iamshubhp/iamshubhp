@@ -5,7 +5,7 @@
   algebra—that power modern ML algorithms.
 
 🌱 Hmm so what am i Currently Learning?  
-- **Python & Data Science Libraries**: Currently i am Strengthening my skills in Python with tools like NumPy, pandas, MatplotLib, scikit-learn and much more.  
+- **Python & Data Science Libraries**: Currently i am Strengthening my skills in Python with tools like NumPy, pandas, MatplotLib, scikit-learn, OOP in python and much more.  
 - **Machine Learning & AI**: i am also exploring algorithms, neural networks, and other advanced AI techniques as i like to stay up to date with growing tech in the world.  
 - **Mathematical Foundations**: Studying basic maths and also key concepts in statistics, probability, and linear algebra that underpin ML.
 
