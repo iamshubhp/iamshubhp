@@ -1,32 +1,34 @@
-👋 Hi there, I'm Shubh Patel!
+👋 Hey there, I'm Shubh Patel!
 
-👀 About Me
-I'm a passionate Computer Science student at Algoma University, exploring the fascinating world of technology. My interests range from software development to data engineering, and I'm always eager to dive into new challenges and opportunities to learn.
+👀 Some thing's about Me  
+- I'm a Computer Science student at Algoma University with a deep passion for Machine Learning, AI, and Data Science. I'm currently focused on mastering Python and diving into the mathematical foundations—such as statistics and linear 
+  algebra—that power modern ML algorithms.
 
-🌱 Currently Learning
-Data Engineering: Enhancing my skills in big data technologies, ETL processes, and data warehousing.
-AI & Machine Learning.
-Full Stack Development.
+🌱 Hmm so what am i Currently Learning?  
+- **Python & Data Science Libraries**: Currently i am Strengthening my skills in Python with tools like NumPy, pandas, MatplotLib, scikit-learn and much more.  
+- **Machine Learning & AI**: i am also exploring algorithms, neural networks, and other advanced AI techniques as i like to stay up to date with growing tech in the world.  
+- **Mathematical Foundations**: Studying basic maths and also key concepts in statistics, probability, and linear algebra that underpin ML.
 
-💼 What I'm Working On
-CSAI Customer Support Bot: Developing an AI-powered customer support bot for CSAI, a platform for AI-powered interviews in software engineering.
-Personal Projects: Building a suite of tools and applications to streamline my workflow and improve my coding efficiency.
+💼 ** Sometimes I wonder what I'm Working On but guess i figured it out**:   
+- **Skill-Building Projects**:
+- Engaging in hands-on projects and coding exercises that bridge theory and practice in ML and AI.  
 
-🤝 Looking to Collaborate On
-Data Engineering & AI/ML Integration: Projects that combine data engineering with AI and machine learning to create powerful, data-driven applications.
-Open-source Contributions: Especially in areas related to React, Node.js, and big data technologies.
+- **Deepening ML Knowledge**:
+- Continuously enhancing my understanding of the core math and techniques behind data science and machine learning.
 
-📫 How to Reach Me
-Email: shubhp1801@gmail.com
+🤝 I am also Looking to Collaborate On  
+- **ML & AI Projects**: If you're working on innovative machine learning or AI solutions, I'd love to connect and collaborate. So you can feel free to hit me up on any opportunities.  
+- **Data Science Initiatives**: I am also open to teaming up on projects that leverage data to drive actionable insights.
 
-LinkedIn: Shubh Patel {below is the link directing to my linkedin :) }
-www.linkedin.com/in/shubh-patel-4572872a4
+📫 How to Reach Me  
+- **Email**: shubhp1801@gmail.com  
+- **LinkedIn**: [Shubh Patel](https://www.linkedin.com/in/shubh-patel-4572872a4)  
+- **GitHub**: [@iamshubhp](https://github.com/iamshubhp)
 
-GitHub: @iamshubhp
+😄 My Pronouns are  
+- He/Him
 
-😄 Pronouns
-He/Him
+⚡ Fun Fact  
+- When I'm not coding or studying ML/AI, you can find me working at the Airport! come visit DutyFree if you are flying from Toronto :)  
 
-⚡ Fun Fact
-When I'm not coding, you can find me working in airport !
 
