@@ -90,8 +90,8 @@
 ---
 
 ### 📊 **GitHub Stats**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamshubhp&show_icons=true&theme=radical)
 
 ### 📈 **Most Used Languages**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/iamshubp/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamshubhp&layout=donut-vertical)](https://github.com/iamshubp/github-readme-stats)
 
